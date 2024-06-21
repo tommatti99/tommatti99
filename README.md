@@ -3,7 +3,7 @@
 <br>
 <br>
 <p>
-<!-- <a href="https://count.getloli.com/get"><img src="https://count.getloli.com/get/@:tommatti99?theme=rule34"></a> -->
+<a href="https://count.getloli.com/get"><img src="https://count.getloli.com/get/@:tommatti99?theme=rule34"></a>
 </p>
 <br>
 <br>
