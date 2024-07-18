@@ -22,10 +22,8 @@
 <code><img title="Rust" height="40" width="40" src="icons/Rust.svg"></code>
 <code><img title="TypeScript" height="40" width="40" src="icons/TypeScript.svg"></code>
 <code><img title="Bash" height="40" width="40" src="icons/Bash-Dark.svg"></code>
-<code><img title="" height="40" width="40" src="icons/WebAssembly.svg"></code>
+<code><img title="WebAssembly" height="40" width="40" src="icons/WebAssembly.svg"></code>
 <code><img title="Python" height="40" width="40" src="icons/Python-Dark.svg"></code>
-<code><img title="AWS" height="40" width="40" src="icons/AWS-Dark.svg"></code>
-<code><img title="Deno" height="40" width="40" src="icons/DENO-Dark.svg"></code>
 <code><img title="Docker" height="40" width="40" src="icons/Docker.svg"></code>
 <code><img title="Heroku" height="40" width="40" src="icons/Heroku.svg"></code>
 <code><img title="HTML" height="40" width="40" src="icons/HTML.svg"></code>
@@ -48,7 +46,6 @@
 <code><img title="Git" height="40" width="40" src="icons/Git.svg"></code>
 <code><img title="Github" height="40" width="40" src="icons/Github-Dark.svg"></code>
 <code><img title="" height="40" width="40" src="icons/RaspberryPi-Dark.svg"></code>
-
 <br>
 <br>
 <br>
