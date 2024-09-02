@@ -39,6 +39,7 @@
 <code><img title="VsCode" height="40" width="40" src="icons/VSCode-Dark.svg"></code>
 <code><img title="Git" height="40" width="40" src="icons/Git.svg"></code>
 <code><img title="Github" height="40" width="40" src="icons/Github-Dark.svg"></code>
+<code><img title="Yew" height="40" width="40" src="icons/yew.svg"></code>
 <br>
 <br>
 <br>
