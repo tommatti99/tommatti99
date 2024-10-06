@@ -7,9 +7,6 @@
 </p>
 <br>
 <br>
-</a>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -34,11 +31,6 @@
 <code><img title="Renpy" height="40" width="40" src="icons/Renpy.svg"></code>
 <code><img title="VsCode" height="40" width="40" src="icons/VSCode-Dark.svg"></code>
 <code><img title="Github" height="40" width="40" src="icons/Github-Dark.svg"></code>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
