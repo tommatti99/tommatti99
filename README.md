@@ -3,15 +3,12 @@
 <br>
 <br>
 <p>
-<a href="https://count.getloli.com/get"><img src="https://count.getloli.com/get/@:tommatti99?theme=rule34"></a>
+<a href="https://count.getloli.com/get"><img src="https://count.getloli.com/get/@:tommatti99?theme=original-new"></a>
 </p>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DDDDDD&random=false&width=435&lines=Stack+%E3%83%BE(+%60%E3%83%BC%C2%B4)%E3%82%B7%CF%86__" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DDDDDD&random=false&width=435&lines=My+Stack+%E3%83%BE(+%60%E3%83%BC%C2%B4)%E3%82%B7%CF%86__" alt="Typing SVG" />
 <br>
 </a>
 <code><img title="Rust" height="40" width="40" src="icons/Rust.svg"></code>
@@ -35,6 +32,10 @@
 <br>
 <br>
 <br>
+<a href="https://leetcode.com/tommatti99/">
+    <img src="https://leetcard.jacoblin.cool/tommatti99?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+</a>
+
 <br>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DDDDDD&random=false&width=435&lines=Come+see+my+projects+(%E3%81%A5%EF%BF%A3+%C2%B3%EF%BF%A3)%E3%81%A5" alt="Typing SVG" />
