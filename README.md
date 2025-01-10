@@ -14,7 +14,6 @@
 <code><img title="Rust" height="40" width="40" src="icons/Rust.svg"></code>
 <code><img title="Bash" height="40" width="40" src="icons/Bash-Dark.svg"></code>
 <code><img title="WebAssembly" height="40" width="40" src="icons/WebAssembly.svg"></code>
-<code><img title="Heroku" height="40" width="40" src="icons/Heroku.svg"></code>
 <code><img title="HTML" height="40" width="40" src="icons/HTML.svg"></code>
 <code><img title="CSS" height="40" width="40" src="icons/CSS.svg"></code>
 <code><img title="Postman" height="40" width="40" src="icons/Postman.svg"></code>
@@ -24,10 +23,12 @@
 <code><img title="Selenium" height="40" width="40" src="icons/Selenium.svg"></code>
 <code><img title="Postgres" height="40" width="40" src="icons/PostgreSQL-Dark.svg"></code>
 <code><img title="SQLite" height="40" width="40" src="icons/SQLite.svg"></code>
-<code><img title="Arch-Linux" height="40" width="40" src="icons/Arch-Dark.svg"></code>
+<code><img title="Debian" height="40" width="40" src="icons/Debian-Dark.svg"></code>
 <code><img title="Renpy" height="40" width="40" src="icons/Renpy.svg"></code>
 <code><img title="Neovim" height="40" width="40" src="icons/NeoVim-Dark.svg"></code>
 <code><img title="Github" height="40" width="40" src="icons/Github-Dark.svg"></code>
+<code><img title="TypeScript" height="40" width="40" src="icons/TypeScript.svg"></code>
+<code><img title="AWS" height="40" width="40" src="icons/AWS-Dark.svg"></code>
 <br>
 <br>
 <br>
