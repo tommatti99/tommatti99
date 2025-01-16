@@ -24,6 +24,7 @@
 <code><img title="Postgres" height="40" width="40" src="icons/PostgreSQL-Dark.svg"></code>
 <code><img title="SQLite" height="40" width="40" src="icons/SQLite.svg"></code>
 <code><img title="Debian" height="40" width="40" src="icons/Debian-Dark.svg"></code>
+<code><img title="Windows" height="40" width="40" src="icons/Windows-Dark.svg"></code>
 <code><img title="Renpy" height="40" width="40" src="icons/Renpy.svg"></code>
 <code><img title="Neovim" height="40" width="40" src="icons/NeoVim-Dark.svg"></code>
 <code><img title="Github" height="40" width="40" src="icons/Github-Dark.svg"></code>
