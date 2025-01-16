@@ -27,6 +27,7 @@
 <code><img title="Renpy" height="40" width="40" src="icons/Renpy.svg"></code>
 <code><img title="Neovim" height="40" width="40" src="icons/NeoVim-Dark.svg"></code>
 <code><img title="Github" height="40" width="40" src="icons/Github-Dark.svg"></code>
+<code><img title="VueJs" height="40" width="40" src="icons/VueJS-Dark.svg"></code>
 <code><img title="TypeScript" height="40" width="40" src="icons/TypeScript.svg"></code>
 <code><img title="AWS" height="40" width="40" src="icons/AWS-Dark.svg"></code>
 <br>
